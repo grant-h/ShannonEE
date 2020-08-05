@@ -1,5 +1,6 @@
 # ShannonEE
 A dynamic analysis environment for Samsung's Shannon baseband (Release pending disclosures).
+See https://github.com/grant-h/ShannonBaseband for tools on reverse engineering Shannon firmware.
 
 ## Artifacts
 
